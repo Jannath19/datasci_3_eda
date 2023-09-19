@@ -30,7 +30,7 @@ The tables "Lifetime Asthma Prevalence by County" and "Current Asthma Prevalence
 
 ### 4. Handling Outliers
 - Identified outliers using the IQR method and visualization tools.
-- Decided to remove outliers and justified this decision in a markdown cell.
+- Dataset did not have any outliers. 
 
 ### 5. Automated Analysis
 - Utilized pandas-profiling for automated EDA.
